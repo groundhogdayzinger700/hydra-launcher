@@ -22,7 +22,7 @@
 ---
 ## Install
 [Download `HydraLauncher`](https://github.com/arnabchoudhury404/hydra-launcher/releases/download/GameLauncher/HydraLauncher.zip)
-
+---
 > Optimized for Windows 10 and Windows 11.
 
 ## Installation
